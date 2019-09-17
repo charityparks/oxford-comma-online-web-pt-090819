@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  fruit = [array].join
+  fruit = ["kiwi"]
 end
 
 
